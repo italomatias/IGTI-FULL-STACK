@@ -1,1 +1,45 @@
-{"nextId":1,"accounts":[]}
+{
+  "nextId": 9,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Babi Tinder",
+      "balance": 85555.11
+    },
+    {
+      "id": 2,
+      "name": "Babi Tinder",
+      "balance": 999.55
+    },
+    {
+      "id": 3,
+      "name": "Babi Tinder",
+      "balance": 85555.11
+    },
+    {
+      "id": 4,
+      "name": "Babi Tinder",
+      "balance": 85555.11
+    },
+    {
+      "id": 5,
+      "name": "Babi Tinder",
+      "balance": 85555.11
+    },
+    {
+      "id": 6,
+      "name": "Babi Tinder",
+      "balance": 85555.11
+    },
+    {
+      "id": 7,
+      "name": "Miguel Reis",
+      "balance": 999990.55
+    },
+    {
+      "id": 8,
+      "name": "ITALO REIS",
+      "balance": 85555.11
+    }
+  ]
+}

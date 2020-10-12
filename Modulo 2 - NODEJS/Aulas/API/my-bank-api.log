@@ -1,0 +1,38 @@
+2020-10-12T19:50:10.878Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T19:50:46.785Z  my-bank-api error ENOENT: no such file or directory, open 'C:\Users\Italo\Desktop\IGTI\Modulo 2 - NODEJS\Aulas\API\accounts.json'
+2020-10-12T19:58:15.049Z  my-bank-api info API INICIADA CRIANDO ARQUIVO
+2020-10-12T19:58:32.016Z  my-bank-api error POST /account - ENOENT: no such file or directory, open 'C:\Users\Italo\Desktop\IGTI\Modulo 2 - NODEJS\Aulas\API\accounts.json'
+2020-10-12T19:58:32.871Z  my-bank-api error POST /account - ENOENT: no such file or directory, open 'C:\Users\Italo\Desktop\IGTI\Modulo 2 - NODEJS\Aulas\API\accounts.json'
+2020-10-12T19:58:35.333Z  my-bank-api error PATCH /account - ENOENT: no such file or directory, open 'C:\Users\Italo\Desktop\IGTI\Modulo 2 - NODEJS\Aulas\API\accounts.json'
+2020-10-12T20:03:28.177Z  my-bank-api info API INICIADA CRIANDO ARQUIVO
+2020-10-12T20:03:37.101Z  my-bank-api info POST REALIZADO COM SUCESSO - {"id":1,"name":"Babi Tinder","balance":85555.11} 
+2020-10-12T20:03:37.816Z  my-bank-api info POST REALIZADO COM SUCESSO - {"id":2,"name":"Babi Tinder","balance":85555.11} 
+2020-10-12T20:03:38.341Z  my-bank-api info POST REALIZADO COM SUCESSO - {"id":3,"name":"Babi Tinder","balance":85555.11} 
+2020-10-12T20:03:38.743Z  my-bank-api info POST REALIZADO COM SUCESSO - {"id":4,"name":"Babi Tinder","balance":85555.11} 
+2020-10-12T20:03:41.109Z  my-bank-api info GET REALIZADO COM SUCESSO 
+2020-10-12T20:03:41.741Z  my-bank-api info GET REALIZADO COM SUCESSO 
+2020-10-12T20:03:42.275Z  my-bank-api info GET REALIZADO COM SUCESSO 
+2020-10-12T20:03:44.538Z  my-bank-api info PATCH ID REALIZADO COM SUCESSO
+2020-10-12T20:03:45.087Z  my-bank-api info PATCH ID REALIZADO COM SUCESSO
+2020-10-12T20:15:30.831Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T20:19:31.621Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T20:20:17.939Z  my-bank-api info POST REALIZADO COM SUCESSO - {"id":5,"name":"Babi Tinder","balance":85555.11} 
+2020-10-12T20:20:29.203Z  my-bank-api error POST /account - Name e Balance são Obrigatórios
+2020-10-12T20:20:34.459Z  my-bank-api info POST REALIZADO COM SUCESSO - {"id":6,"name":"Babi Tinder","balance":85555.11} 
+2020-10-12T20:21:26.591Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T20:23:16.623Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T20:23:22.676Z  my-bank-api info POST REALIZADO COM SUCESSO - {"id":7,"name":"Babi Tinder","balance":85555.11} 
+2020-10-12T20:23:30.123Z  my-bank-api info POST REALIZADO COM SUCESSO - {"id":8,"name":"ITALO REIS","balance":85555.11} 
+2020-10-12T20:23:34.096Z  my-bank-api info GET REALIZADO COM SUCESSO 
+2020-10-12T20:26:01.221Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T20:28:17.196Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T20:28:54.242Z  my-bank-api info PUT ID REALIZADO COM SUCESSO
+2020-10-12T20:28:57.493Z  my-bank-api info GET REALIZADO COM SUCESSO 
+2020-10-12T20:30:13.675Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T20:43:42.914Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T20:45:00.099Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T21:43:38.018Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T21:43:46.937Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T21:45:02.316Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T21:45:03.918Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
+2020-10-12T21:45:05.238Z  my-bank-api info API INICIADA USANDO ARQUIVO EXISTENTE
